@@ -1,0 +1,102 @@
+[
+  {
+    "name": "Firefox",
+    "description": "Web browser",
+    "install_cmd": "sudo apt-get install -y firefox"
+  },
+  {
+    "name": "VLC",
+    "description": "Media player",
+    "install_cmd": "sudo apt-get install -y vlc"
+  },
+  {
+    "name": "GIMP",
+    "description": "Image editor",
+    "install_cmd": "sudo apt-get install -y gimp"
+  },
+  {
+    "name": "htop",
+    "description": "Interactive process viewer",
+    "install_cmd": "sudo apt-get install -y htop"
+  },
+  {
+    "name": "curl",
+    "description": "Command-line tool for transferring data",
+    "install_cmd": "sudo apt-get install -y curl"
+  },
+  {
+    "name": "git",
+    "description": "Version control system",
+    "install_cmd": "sudo apt-get install -y git"
+  },
+  {
+    "name": "tmux",
+    "description": "Terminal multiplexer",
+    "install_cmd": "sudo apt-get install -y tmux"
+  },
+  {
+    "name": "neofetch",
+    "description": "System info tool",
+    "install_cmd": "sudo apt-get install -y neofetch"
+  },
+  {
+    "name": "libreoffice",
+    "description": "Office productivity suite",
+    "install_cmd": "sudo apt-get install -y libreoffice"
+  },
+  {
+    "name": "thunderbird",
+    "description": "Email client",
+    "install_cmd": "sudo apt-get install -y thunderbird"
+  },
+  {
+    "name": "audacity",
+    "description": "Audio editor and recorder",
+    "install_cmd": "sudo apt-get install -y audacity"
+  },
+  {
+    "name": "ffmpeg",
+    "description": "Multimedia framework",
+    "install_cmd": "sudo apt-get install -y ffmpeg"
+  },
+  {
+    "name": "wireshark",
+    "description": "Network protocol analyzer",
+    "install_cmd": "sudo apt-get install -y wireshark"
+  },
+  {
+    "name": "vlc",
+    "description": "Media player",
+    "install_cmd": "sudo apt-get install -y vlc"
+  },
+  {
+    "name": "python3-pip",
+    "description": "Python package installer",
+    "install_cmd": "sudo apt-get install -y python3-pip"
+  },
+  {
+    "name": "virtualbox",
+    "description": "Virtualization software",
+    "install_cmd": "sudo apt-get install -y virtualbox"
+  },
+  {
+    "name": "docker.io",
+    "description": "Container platform",
+    "install_cmd": "sudo apt-get install -y docker.io"
+  },
+  {
+    "name": "zsh",
+    "description": "Shell alternative to bash",
+    "install_cmd": "sudo apt-get install -y zsh"
+  },
+  {
+    "name": "tree",
+    "description": "Display directory structure",
+    "install_cmd": "sudo apt-get install -y tree"
+  },
+  {
+    "name": "screenfetch",
+    "description": "System info tool (alternative to neofetch)",
+    "install_cmd": "sudo apt-get install -y screenfetch"
+  }
+]
